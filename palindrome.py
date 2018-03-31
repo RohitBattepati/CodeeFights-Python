@@ -8,7 +8,7 @@ def checkPalindrome(inputString):
 		
 # second method
 
-ddef checkPalindrome(inputString):
+def checkPalindrome(inputString):
     left = 0
     right = len(inputString) - 1
     while left < right:
